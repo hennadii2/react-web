@@ -1,0 +1,17 @@
+// user.scss
+//
+// Place your own theme CSS or SCSS rules below this line, these rules will override any Bootstrap and theme variables.
+@media (min-width: 1760px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
+    max-width: 1700px;
+  }
+}
+
+.slick-slider-arrow-inner {
+  max-height: 650px;
+}

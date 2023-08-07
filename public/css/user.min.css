@@ -1,0 +1,13 @@
+@media (min-width: 1760px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
+    max-width: 1700px;
+  }
+}
+.slick-slider-arrow-inner {
+  max-height: 650px;
+}
